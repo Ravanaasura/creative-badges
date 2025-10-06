@@ -2,6 +2,7 @@
   "name": "creative-badges",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "description": "Creative badge generator with Satori on Vercel",
   "dependencies": {
     "axios": "^1.7.2",
