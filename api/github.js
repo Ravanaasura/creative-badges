@@ -1,4 +1,4 @@
-const satori = require('satori');
+const satori = require('satori').default;
 const { readFileSync } = require('fs');
 const { join } = require('path');
 const axios = require('axios');
